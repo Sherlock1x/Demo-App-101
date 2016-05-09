@@ -1,6 +1,7 @@
 # Demo-App-101
 
-Note: Cloud Code Packaging Warehouse  (CCPW)
+Note: Truck TO:||||||||Cloud Code Packaging Warehouse (CCPW)||||||| "In God we Trust" "a meeting of the minds" Pier to Pier, TO:Client, Clients.|||||||||||
+
 AppVeyor Application
 
 Step 1 - Sign in with AppVeyorAnchor link for: step 1 sign in with appveyor
